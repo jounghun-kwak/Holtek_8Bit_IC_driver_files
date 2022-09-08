@@ -1,5 +1,6 @@
 # Holtek_8Bit_IC_driver_files
-function
+
+uart driver function
   - This uses an interrupt for RX.
   - TX is a holding method.
   - It uses Ring Buffer. When an interrupt occurs, it is loaded into the Ring Buffer and processed later.
