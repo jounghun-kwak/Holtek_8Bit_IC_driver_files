@@ -1,5 +1,9 @@
 # Holtek_8Bit_IC_driver_files
 
+We are Holtek IC distributors.
+Contact us if you need technical support
+jaden@pacificcentury.co.kr
+
 uart driver function
   - This uses an interrupt for RX.
   - TX is a holding method.
